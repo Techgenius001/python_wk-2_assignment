@@ -1,6 +1,6 @@
 # List Operations in Python 🐍
 
-This is a simple Python script demonstrating basic list operations. It's part of a Python assignment project and showcases how to work with lists using built-in methods.
+This is a simple Python script demonstrating basic list operations. It showcases how to work with lists using built-in methods.
 
 ## 📌 What the Script Does
 
